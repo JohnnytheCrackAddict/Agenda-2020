@@ -1,0 +1,240 @@
+campaignTrail_temp.election_json = [
+    {
+        "model": "campaign_trail.election",
+        "pk": 21,
+        "fields": {
+            "year": 2020,
+            "summary": "<p>After a fiercely contested, tied DNC in 2020, the hidden puppet masters of the Democrat elite revealed their true \"outsider\" candidate someone they had secretly been grooming for years. Klaus Schwab, the shadowy mastermind behind the global elite, unleashed his most powerful operatives on American soil: Dr. Fauci, the face of the pandemic, and Bill Gates, the tech mogul with a mysterious agenda.</p><p>As the election heats up, President Donald Trump aims for reelection, while Fauci attempts to regain the WEF's total control of the United States government and, consequently, the world.</p>",
+            "image_url": "https://i.ibb.co/5gF5YZb1/image.png",
+            "winning_electoral_vote_number": 270,
+            "advisor_url": "https://i.ibb.co/5gF5YZb1/image.png",
+            "recommended_reading": "<ul>\n<li><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></li>\n<li><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></li>\n<li><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></li>\n<li><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></li>\n<li><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></li>\n</ul>",
+            "has_visits": 1,
+            "no_electoral_majority_image": "https://www.jetsimon.com/public/static/images/2012-no-majority.jpg",
+            "creator": "Dan Bryan",
+            "display_year": "Agenda 2020"
+        }
+    }
+]
+
+campaignTrail_temp.candidate_json = [
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 300,
+        "fields": {
+            "first_name": "Anthony",
+            "last_name": "Fauci",
+            "election": 21,
+            "party": "Democrat",
+            "state": "New York",
+            "priority": 1,
+            "description": "<p>He'll tell you nothing but lies,</p>\n<p>there are no truths in his life<p>\nHe looks so sweet and so kind,</p>\nbut that mans a cruel devil in disguise.",
+            "color_hex": "#0000FF",
+            "secondary_color_hex": "#90C0FF",
+            "is_active": 1,
+            "image_url": "https://i.ibb.co/JF8STMYs/image-1.png",
+            "electoral_victory_message": "<p><b>74 PR</p></b>\n\n<p>The last News-Drone, a silent, gleaming scar across the velvet of the sky, had long since finished its metallic prayer and returned to its hangar by the time the Savage lay submerged in the moor's rough embrace. Sleep, that illicit, unstructured anarchy, finally claimed him. The Sun, that vulgar, insistent eye, was already at its zenith when he was jerked into the abrasive present. For a moment, he was mere protoplasm, blinking with the slow, muddy wonder of a creature newly emerged from the primordial ooze—a pure, owlish incomprehension of the synthetic world. Then, the full, sickening weight of memory, the unpardonable past, crashed upon him: \"Oh, my God, my God!\"\nThe blasphemy was a gasp, and he pressed a shaking palm to an eyelid, as if to blind himself to the unbearable clarity of the present moment.</p> That selfsame evening, the synthetic frenzy was re-ignited. The air thickened with the persistent, mechanical hum of the swarm of Drones and the predatory jostle of the News-Reporters. The previous night's indiscretion—the full, unhygienic spectacle of the Metaverse Orgy—was now, predictably, the day's indispensable, mass-produced scandal. \"Savage!\" chirped the leading edge of the advance, the brightly coloured, hyper-aggressive scouts from the New York Times, \"Mr. Savage!\" Only the immense, indifferent silence of the moor answered. The ingress was inevitable. The door of the archaic Broadcasting House yielded to their curiosity. They spilled into the sterile, geometric confinement of a room best described as living quarters, then through an archway to a second. A half-closed door beckoned. <p>\"Mr. Savage!\" The ritualistic call. They pushed it wide. The image was instantaneous, shocking in its definitive, unedited finality: a body, a partial, dreadful excision of the face, a shotgun still warm with the sudden cessation of history. And then, with the practiced, disciplined reflex of those who understand the value of a clean, publishable narrative, they retreated, leaving the untidy truth behind.</p>",
+            "electoral_loss_message": "<p>Donald Trump was looking over the White House lawn. His victory was a few months ago... he knew something felt off since the start..</p> <p>How the hell did Fauci even win the DNC? probably nothing... Don't care about the losers and haters, it was time to keep America great.</p>",
+            "no_electoral_majority_message": "Six seven six seven xd xd xd six seven!! six seven!! six seven!!1 lol!!! six seven!!1 six seven!! six seven!!! (I had no clue what to do for this)",
+            "description_as_running_mate": "",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 301,
+        "fields": {
+            "first_name": "Donald",
+            "last_name": "Trump",
+            "election": 21,
+            "party": "Republican",
+            "state": "Florida",
+            "priority": 2,
+            "description": "<p>President Donald Trump enters the campaign with the advantages of incumbency, yet seems to be the underdog for a second time. Can Trump piece together a winning coalition again, and will it be the same one that got him over the finish line in 2016? The pandemic and Black Lives Matter movement only serve to complicate his task even further.</p>",
+            "color_hex": "#FF0000",
+            "secondary_color_hex": "#FFA0A0",
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/static/images/donald-trump-2020.jpg",
+            "electoral_victory_message": "<h3>Congratulations! You have won the 2020 election.</h3><p>For the second time in a row, many analysts saw a victory for you as practically impossible. But whatever they say, it is clear that your Make America Great Again agenda has been vindicated. Where do you take things from here?</p>",
+            "electoral_loss_message": "<h3>Sorry! You have lost the 2020 election.</h3><p>After an election in which many of your supporters claimed democracy itself was at stake, what happens now? Many analysts believe the party will need to go in a completely different direction next time. As for yourself, will you take these results sitting down, or will you prepare yourself for an epic political comeback in 2024?</p>",
+            "no_electoral_majority_message": "<h3>Congratulations! You have won the 2020 election.</h3><p>In spite of the 269-269 tie in the electoral college, Republicans control a majority of state delegations in the House of Representatives. A lot of liberals are absolutely distraught and outraged that the election came down to such a technicality, but hey, those are the rules!</p>",
+            "description_as_running_mate": "",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 302,
+        "fields": {
+            "first_name": "Jo",
+            "last_name": "Jorgensen",
+            "election": 21,
+            "party": "Libertarian",
+            "state": "South Carolina",
+            "priority": 3,
+            "description": "'",
+            "color_hex": "#FFFF00",
+            "secondary_color_hex": "#FFFFC0",
+            "is_active": 0,
+            "image_url": "'",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "'",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 303,
+        "fields": {
+            "first_name": "Howie",
+            "last_name": "Hawkins/Other",
+            "election": 21,
+            "party": "Green",
+            "state": "New York",
+            "priority": 4,
+            "description": "'",
+            "color_hex": "#00C100",
+            "secondary_color_hex": "#A1FFA1",
+            "is_active": 0,
+            "image_url": "'",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "'",
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 304,
+        "fields": {
+            "first_name": "Bill",
+            "last_name": "Gates",
+            "election": 21,
+            "party": "Democrat",
+            "state": "Washington",
+            "priority": 5,
+            "description": "'",
+            "color_hex": "#0000FF",
+            "secondary_color_hex": "#90C0FF",
+            "is_active": 0,
+            "image_url": "https://i.ibb.co/V0JWxVhf/image-3.png",
+            "electoral_victory_message": "'",
+            "electoral_loss_message": "'",
+            "no_electoral_majority_message": "'",
+            "description_as_running_mate": "<p>But here, at the end, there is only silence,</p>\n<p>there is only dust, only the hollow crown—</p>\n<p>and no heroes at the end of the world.</p>\n",
+            "candidate_score": 0,
+            "running_mate": true
+        }
+    }
+]
+
+campaignTrail_temp.running_mate_json = [
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 200,
+        "fields": {
+            "candidate": 300,
+            "running_mate": 304
+        }
+    }
+]
+
+campaignTrail_temp.credits = "Dan Bryan"
+
+campaignTrail_temp.global_parameter_json = [
+    {
+        "model": "campaign_trail.global_parameter",
+        "pk": 1,
+        "fields": {
+            "vote_variable": 1.125,
+            "max_swing": 0.12,
+            "start_point": 0.94,
+            "candidate_issue_weight": 10,
+            "running_mate_issue_weight": 3,
+            "issue_stance_1_max": -0.71,
+            "issue_stance_2_max": -0.3,
+            "issue_stance_3_max": -0.125,
+            "issue_stance_4_max": 0.125,
+            "issue_stance_5_max": 0.3,
+            "issue_stance_6_max": 0.71,
+            "global_variance": 0.01,
+            "state_variance": 0.005,
+            "question_count": 18,
+            "default_map_color_hex": "#C9C9C9",
+            "no_state_map_color_hex": "#999999"
+        }
+    }
+]
+
+campaignTrail_temp.opponents_default_json = [
+    {
+        "election": 21,
+        "candidates": [
+            300,
+            301,
+            302,
+            303
+        ]
+    }
+]
+
+campaignTrail_temp.opponents_weighted_json = [
+    {
+        "election": 21,
+        "candidates": [
+            300,
+            301,
+            302,
+            303
+        ]
+    }
+]
+
+campaignTrail_temp.temp_election_list = [
+    {
+        "id": 21,
+        "year": 2020,
+        "is_premium": 0,
+        "display_year": "Agenda 2020"
+    }
+]
+
+jet_data = {
+    "headerColor": "#700016",
+    "windowColor": "#BFE6FF",
+    "containerColor": "#FFFFFF",
+    "innerWindowColor": "#E8FBFF",
+    "bannerImageUrl": "https://i.ibb.co/Jw4ZVf7r/WEF.png",
+    "backgroundImageUrl": "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg",
+    "endingTextColor": "#000000",
+    "customQuote": ""
+}
+
+//#startcode
+
+
+
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#700016";
+
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#BFE6FF";
+
+document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
+
+$("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
+
+$(".container")[0].style.backgroundColor = "#FFFFFF";
+
+document.getElementById("header").src = "https://i.ibb.co/Jw4ZVf7r/WEF.png";
+
+document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg";
+
+document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#E8FBFF!important;}</style>";
+
+//#endcode
